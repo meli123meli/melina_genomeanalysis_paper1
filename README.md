@@ -1,5 +1,3 @@
 # melina_genomeanalysis_paper1
 In this repository I keep the code and work process I follow in the course genome analysis, paper I.
 The code is found under <a href ="https://github.com/meli123meli/melina_genomeanalysis_paper1/tree/main/codeclean"> codeclean </a>. In the <a href ="https://github.com/meli123meli/melina_genomeanalysis_paper1/wiki"> Wiki </a>, the page <a href ="https://github.com/meli123meli/melina_genomeanalysis_paper1/wiki/Project-Plan"> Project Plan </a> includes a short introduction, a time plan, software planned to be used and a draft for data organization. The page <a href="https://github.com/meli123meli/melina_genomeanalysis_paper1/wiki/Report"> Report </a> includes information about methods, results, interpretation of the performed steps, plus additionally answered questions. There can also be found a page called <a href="https://github.com/meli123meli/melina_genomeanalysis_paper1/wiki/Documentation"> Documentation </a>, where I comment on the work in a time line like style. 
-
-<a href=""> bla </a>
